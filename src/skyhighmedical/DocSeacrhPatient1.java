@@ -267,7 +267,7 @@ public class DocSeacrhPatient1 extends javax.swing.JFrame {
         jScrollPane1.setViewportView(jTable1);
 
         jLabel4.setFont(new java.awt.Font("Times New Roman", 1, 36)); // NOI18N
-        jLabel4.setText("Dcotor Patient Search");
+        jLabel4.setText("Doctor Patient Search");
 
         jLabel5.setText("jLabel5");
 

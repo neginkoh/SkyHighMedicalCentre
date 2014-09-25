@@ -179,7 +179,7 @@
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
               <Font name="Times New Roman" size="36" style="1"/>
             </Property>
-            <Property name="text" type="java.lang.String" value="Dcotor Patient Search"/>
+            <Property name="text" type="java.lang.String" value="Doctor Patient Search"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel5">
